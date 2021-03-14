@@ -8,7 +8,7 @@
 - 🤝 Send me an email or message on Twitter if you want to get in touch.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkhphuc&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkhphuc&count_private=true&show_icons=true&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkhphuc&layout=compact" />
