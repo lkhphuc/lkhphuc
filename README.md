@@ -1,16 +1,27 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a PhD student with an interest in Object-centric Representation Learning from Videos.
+- 🌱 I’m currently learning to write and publish more blogs, codes and papers.
+- 📑 Check it out at [lkhphuc.com](https://lkhphuc.com).
+- 😄 I like to unproductively procrastinate by optimizing my tools & workflow to be more productive (in the future, I hope).
+- 🙈 NeoVim > Vim >> Emacs
+- 🤝 Send me an email or message on Twitter if you want to get in touch.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkhphuc&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkhphuc&layout=compact" />
+</a>
+[![Visits Badge](https://badges.pufler.dev/visits/lkhphuc/)](https://badges.pufler.dev)
 <!--
 **lkhphuc/lkhphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
