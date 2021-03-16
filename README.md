@@ -5,7 +5,7 @@
 - 📑 Check it out at [lkhphuc.com](https://lkhphuc.com).
 - 😄 I like to unproductively procrastinate by optimizing my tools & workflow to be more productive (in the future, I hope).
 - 🙈 NeoVim > Vim >> Emacs
-- 🤝 Send me an email or message on Twitter if you want to get in touch.
+- 🤝 Send me an [email](mailto:phuc@lkhphuc.com) or DM me on Twitter if you want to get in touch.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkhphuc&count_private=true&show_icons=true&hide_rank=true" />
