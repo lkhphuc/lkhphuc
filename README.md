@@ -14,8 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkhphuc&layout=compact" />
 </a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/lkhphuc/lkhphuc)](https://badges.pufler.dev)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lkhphuc.lkhphuc&left_color=green&right_color=red)
 <!--
 **lkhphuc/lkhphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
